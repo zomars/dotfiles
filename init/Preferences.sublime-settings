@@ -1,8 +1,9 @@
 {
-	"color_scheme": "Packages/Color Scheme - Default/Solarized (Dark).tmTheme",
+	"color_scheme": "Packages/User/SublimeLinter/Flatland Monokai (SL).tmTheme",
 	"default_encoding": "UTF-8",
 	"default_line_ending": "unix",
 	"detect_indentation": false,
+	"dictionary": "Packages/Dictionaries/Spanish.dic",
 	"draw_white_space": "all",
 	"ensure_newline_at_eof_on_save": false,
 	"file_exclude_patterns":
