@@ -1,44 +1,48 @@
 {
-	"color_scheme": "Packages/User/SublimeLinter/Flatland Monokai (SL).tmTheme",
-	"default_encoding": "UTF-8",
-	"default_line_ending": "unix",
-	"detect_indentation": false,
-	"dictionary": "Packages/Dictionaries/Spanish.dic",
-	"draw_white_space": "all",
-	"ensure_newline_at_eof_on_save": true,
-	"file_exclude_patterns":
-	[
-		".DS_Store",
-		"Desktop.ini",
-		"*.pyc",
-		"._*",
-		"Thumbs.db",
-		".Spotlight-V100",
-		".Trashes"
-	],
-	"folder_exclude_patterns":
-	[
-		".git",
-		"node_modules"
-	],
-	"font_face": "Monaco",
-	"font_size": 13,
-	"highlight_modified_tabs": true,
-	"hot_exit": false,
-	"line_padding_bottom": 5,
-	"match_brackets": true,
-	"match_brackets_angle": true,
-	"remember_open_files": true,
-	"rulers":
-	[
-		80
-	],
-	"show_encoding": true,
-	"show_line_endings": true,
-	"tab_size": 2,
-	"theme": "Adaptive.sublime-theme",
-	"translate_tabs_to_spaces": true,
-	"trim_trailing_white_space_on_save": true,
-	"update_check": false,
-	"word_wrap": true
+  "color_scheme": "Packages/User/SublimeLinter/Flatland Monokai (SL).tmTheme",
+  "default_encoding": "UTF-8",
+  "default_line_ending": "unix",
+  "detect_indentation": false,
+  "dictionary": "Packages/Dictionaries/Spanish.dic",
+  "draw_white_space": "all",
+  "ensure_newline_at_eof_on_save": true,
+  "file_exclude_patterns":
+  [
+    ".DS_Store",
+    "Desktop.ini",
+    "*.pyc",
+    "._*",
+    "Thumbs.db",
+    ".Spotlight-V100",
+    ".Trashes"
+  ],
+  "folder_exclude_patterns":
+  [
+    ".git",
+    "node_modules"
+  ],
+  "font_face": "Monaco",
+  "font_size": 13,
+  "highlight_modified_tabs": true,
+  "hot_exit": false,
+  "ignored_packages":
+  [
+    "Vintage"
+  ],
+  "line_padding_bottom": 5,
+  "match_brackets": true,
+  "match_brackets_angle": true,
+  "remember_open_files": true,
+  "rulers":
+  [
+    80
+  ],
+  "show_encoding": true,
+  "show_line_endings": true,
+  "tab_size": 2,
+  "theme": "Seti.sublime-theme",
+  "translate_tabs_to_spaces": true,
+  "trim_trailing_white_space_on_save": true,
+  "update_check": false,
+  "word_wrap": true
 }
